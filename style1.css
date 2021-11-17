@@ -1,0 +1,25 @@
+body {
+  background-color: #fffcf2; 
+  font-family: "Times New Roman", serif;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+h1 {
+  font-family: Georgia, serif;
+}
+h4 {
+  font-family: Poppins, sans-serif;
+  color: #fffefa;
+  text-align: center;
+  background-color: #b08968;
+  border-style: inset;
+  border-color: #ddb892;
+}
+a:link {
+  color: #ddb892; 
+  background-color: transparent;
+}
+a:visited {
+  color: #7f5539;
+  background-color: transparent;
+}

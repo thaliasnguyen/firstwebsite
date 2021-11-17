@@ -1,0 +1,94 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: #fffcf2; 
+}
+
+h1 {
+    font-family: Georgia, serif;
+}
+ 
+div.howl {
+    background-color: #003049;
+    color: white;
+    width: 600px;
+    height: 400px;
+    margin-left: 30px;
+}
+
+div.frosting {
+    background-color: #9e2a2b;
+    color: white;
+    width: 120px;
+    height: 35px;
+    margin-left: 30px;
+    text-align: right;
+}
+
+.kiki {
+    color: #4d194d;
+}
+
+.kokiri{
+  background-color: #735d78;  
+  color: #fffcf2;
+  width: 450px;
+  height: 300px;
+  margin-left: 30px;
+  margin-bottom: 70px;
+}
+
+#ghibli {
+    background-color: #b08968;
+    color: #fffefa;
+    text-align: center;
+    padding: 1px;
+    border: double green 5px;
+    position: relative;
+    bottom: 5px;
+    margin: 15px;
+}
+
+#border {
+    border-color: #4d194d;
+    border-style: solid;
+}
+
+#hero {
+    background-color: lightblue;
+    color: darkblue;
+    width: 120px;
+    height: 20px;
+    margin-left: 30px;
+    text-align: right;
+}
+
+span.spirited {
+  color: #00a896;
+}
+span.arietty {
+    font-size: 200%;
+    color: #e71d36;
+    background-color: #a7c957;
+    font-family: times;
+}
+span.totoro {
+    font-size: 280%;
+    color: #33415c;
+    background-color: #ffe1a8;
+    font-family: arial;
+}
+
+span.ponyo {
+    font-size: 210%;
+    color: #ff70a6;
+    background-color: lightblue;
+    font-family: courier new;
+}
+a:link {
+  color: #ddb892; 
+  background-color: transparent;
+}
+a:visited {
+  color: #7f5539;
+  background-color: transparent;
+}
